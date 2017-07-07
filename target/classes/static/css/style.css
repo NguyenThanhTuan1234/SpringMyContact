@@ -1,0 +1,47 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Gist
+ @NguyenThanhTuan1234
+ Sign out
+ Watch 1
+  Star 1
+  Fork 1 yuen26/mycontact-html
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki Insights 
+Branch: master Find file Copy pathmycontact-html/style.css
+036691c  on Jan 12
+@yuen26 yuen26 First commit
+1 contributor
+RawBlameHistory     
+27 lines (21 sloc)  275 Bytes
+.main-content {
+	min-height: 500px;
+	max-width: 700px;
+	margin-top: 70px;
+}
+
+.list {
+	max-width: 800px;
+}
+
+.form {
+	max-width: 450px;
+}
+
+.row {
+	margin-top: 30px;
+}
+
+.table th, td {
+   text-align: center;   
+}
+
+.field-error {
+	border-color: #ff0000;
+	margin-bottom: 10px;	
+}
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
